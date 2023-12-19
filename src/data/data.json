@@ -1,6 +1,6 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
+    "title": "欣奕除疤民营医疗事业部",
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
@@ -20,49 +20,49 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "欣奕肽能修护膏",
+      "largeImage": "img/portfolio/1.jpeg",
+      "smallImage": "img/portfolio/1.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "欣奕除疤无痕净痘凝胶",
+      "largeImage": "img/portfolio/2.jpeg",
+      "smallImage": "img/portfolio/2.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "欣奕肌能饮",
+      "largeImage": "img/portfolio/3.jpeg",
+      "smallImage": "img/portfolio/3.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "肽能紫草膏",
+      "largeImage": "img/portfolio/4.jpeg",
+      "smallImage": "img/portfolio/4.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "深层净化洁面乳",
+      "largeImage": "img/portfolio/5.jpeg",
+      "smallImage": "img/portfolio/5.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "平衡细致净痘水",
+      "largeImage": "img/portfolio/6.jpeg",
+      "smallImage": "img/portfolio/6.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "欣奕肽能修护膏",
+      "largeImage": "img/portfolio/7.jpeg",
+      "smallImage": "img/portfolio/7.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "舒缓修护凝胶",
+      "largeImage": "img/portfolio/8.jpeg",
+      "smallImage": "img/portfolio/8.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "软化康肤液",
+      "largeImage": "img/portfolio/9.jpeg",
+      "smallImage": "img/portfolio/9.jpeg"
     }
   ],
   "Services": [
@@ -132,27 +132,58 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "黑.吉.辽.蒙.北京.天津",
+      "job": "穆艳霞15528016816"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "广东.广西.海南.云.贵.江西",
+      "job": "樊依晴18639779386"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "湖南.湖北",
+      "job": "靳伟明15721270086"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "山西省",
+      "job": "15929375169"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "陕.甘.宁.青海.新疆",
+      "job": "李慧敏15929375169"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "河北省委安徽省",
+      "job": "张盼15837091947"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "川.渝",
+      "job": "秦文远15638695621"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "河南省",
+      "job": "刘丽娟13213218592"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "江.浙.沪",
+      "job": "刘爱民18921303935"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "山东省",
+      "job": "靳海斌17860583926"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
+    "address": "天津滨海高新区华苑产业区华天道6号海泰大厦B座608室",
+    "address1": "天津滨海高新区华苑产业区华天道6号海泰大厦B座608室",
     "phone": "+1 123 456 1234",
     "email": "info@company.com",
     "facebook": "fb.com",

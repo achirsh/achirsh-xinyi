@@ -39,7 +39,7 @@ export const Contact = (props) => {
     <div>
       <div id="contact">
         <div className="container">
-          <div className="col-md-8">
+          {/* <div className="col-md-8">
             <div className="row">
               <div className="section-title">
                 <h2>Get In Touch</h2>
@@ -97,18 +97,18 @@ export const Contact = (props) => {
                 </button>
               </form>
             </div>
-          </div>
+          </div> */}
           <div className="col-md-3 col-md-offset-1 contact-info">
             <div className="contact-item">
-              <h3>Contact Info</h3>
+              <h3>联系信息</h3>
               <p>
                 <span>
-                  <i className="fa fa-map-marker"></i> Address
+                  <i className="fa fa-map-marker"></i> 地址
                 </span>
                 {props.data ? props.data.address : "loading"}
               </p>
             </div>
-            <div className="contact-item">
+            {/* <div className="contact-item">
               <p>
                 <span>
                   <i className="fa fa-phone"></i> Phone
@@ -123,9 +123,9 @@ export const Contact = (props) => {
                 </span>{" "}
                 {props.data ? props.data.email : "loading"}
               </p>
-            </div>
+            </div> */}
           </div>
-          <div className="col-md-12">
+          {/* <div className="col-md-12">
             <div className="row">
               <div className="social">
                 <ul>
@@ -147,19 +147,16 @@ export const Contact = (props) => {
                 </ul>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
-      <div id="footer">
+      {/* <div id="footer">
         <div className="container text-center">
           <p>
             &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
-              TemplateWire
-            </a>
           </p>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };

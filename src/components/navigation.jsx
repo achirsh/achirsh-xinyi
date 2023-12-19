@@ -18,7 +18,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            React Landing Page
+            欣奕除疤民营医疗事业部
           </a>{" "}
         </div>
 
@@ -27,7 +27,7 @@ export const Navigation = (props) => {
           id="bs-example-navbar-collapse-1"
         >
           <ul className="nav navbar-nav navbar-right">
-            <li>
+            {/* <li>
               <a href="#features" className="page-scroll">
                 Features
               </a>
@@ -41,25 +41,25 @@ export const Navigation = (props) => {
               <a href="#services" className="page-scroll">
                 Services
               </a>
-            </li>
+            </li> */}
             <li>
               <a href="#portfolio" className="page-scroll">
-                Gallery
+                产品中心
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href="#testimonials" className="page-scroll">
                 Testimonials
               </a>
-            </li>
+            </li> */}
             <li>
               <a href="#team" className="page-scroll">
-                Team
+                会务组联系人
               </a>
             </li>
             <li>
               <a href="#contact" className="page-scroll">
-                Contact
+                联系
               </a>
             </li>
           </ul>
