@@ -267,11 +267,14 @@ header .intro-text {
 /* About Section */
 #about {
   padding: 20px 0;
+  width: 100vw;
+  overflow-x: hidden;
 }
 #about h3 {
   font-size: 22px;
   margin: 0 0 20px;
 }
+
 #about h2 {
   position: relative;
   margin-bottom: 15px;
@@ -616,4 +619,9 @@ label {
     padding: 0px 2px 5px 25px;
     margin: 9px 20px 0;
   }
+}
+
+#root {
+  width: 100vw;
+  /* overflow-x: hidden; */
 }
