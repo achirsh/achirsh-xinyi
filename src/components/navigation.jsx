@@ -54,7 +54,7 @@ export const Navigation = (props) => {
             </li> */}
             <li>
               <a href="#team" className="page-scroll">
-                会务组联系人
+                欢迎瘢痕技术咨询
               </a>
             </li>
             <li>

@@ -5,7 +5,7 @@ export const Team = (props) => {
     <div id="team" className="text-center">
       <div className="container">
         <div className="col-md-8 col-md-offset-2 section-title" style={{ marginBottom: '10px' }}>
-          <div>会务组联系人</div>
+          <div>欢迎瘢痕技术咨询</div>
         </div>
         <div id="row">
           {props.data

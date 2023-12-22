@@ -108,15 +108,15 @@ export const Contact = (props) => {
                 {props.data ? props.data.address : "loading"}
               </p>
             </div>
-            {/* <div className="contact-item">
+            <div className="contact-item">
               <p>
                 <span>
-                  <i className="fa fa-phone"></i> Phone
+                  <i className="fa fa-phone"></i> 公司服务热线
                 </span>{" "}
                 {props.data ? props.data.phone : "loading"}
               </p>
             </div>
-            <div className="contact-item">
+            {/* <div className="contact-item">
               <p>
                 <span>
                   <i className="fa fa-envelope-o"></i> Email
